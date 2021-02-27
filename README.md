@@ -1,4 +1,4 @@
-# Ghost Theme Template
+# iteration_zero site template
 
 This is a clone of Thoughtbot's template, please visit https://github.com/thoughtbot/ghost-theme-template
 
