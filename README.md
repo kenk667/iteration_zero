@@ -1,5 +1,7 @@
 # Ghost Theme Template
 
+This is a clone of Thoughtbot's template, please visit https://github.com/thoughtbot/ghost-theme-template
+
 A project scaffold for building [Ghost](http://github.com/tryghost/ghost/)
 themes using Gulp, LibSass, & Autoprefixer.
 
